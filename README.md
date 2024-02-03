@@ -24,7 +24,7 @@ To be added.
 ![System Design](screenshots/system-design.png "System Design")
 
 ## Technologies Used
-1. HTML, CSS, and React.
+1. React.
 2. Spring Boot.
 
 ## Future Features:
